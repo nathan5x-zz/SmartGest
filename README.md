@@ -4,6 +4,7 @@ Advent of wearable computing devices has opened a myriad of opportunities to exp
 #### References
 [Android Sensors Overview]
 (http://developer.android.com/guide/topics/sensors/sensors_overview.html)
+
 [Android Sensor Types - Overview]
 (https://source.android.com/devices/sensors/sensor-types.html)
 
